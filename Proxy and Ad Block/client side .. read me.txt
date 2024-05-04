@@ -1,4 +1,0 @@
-1.Turn off the automatically detect settings 
-2. Turn ON manual proxy setup
-3. In the address section give the ip address  of the aws ec2 instance and a port number .
-4. run the system
